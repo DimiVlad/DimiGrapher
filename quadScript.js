@@ -107,7 +107,7 @@ function scaledX(x) {
 }
 
 function scaledY(y) {
-  newy = w/2-y*k;
+  newy = h/2-y*k;
   return newy;
 }
 
